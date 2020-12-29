@@ -1,4 +1,5 @@
 # movie-dex_API
+## Movie Search API
 - Users can search for Movies by genre, country or avg_vote
 - The endpoint is GET /movie
 - The search options for genre, country, and/or average vote are provided in query string parameters.
